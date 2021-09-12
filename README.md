@@ -1,4 +1,39 @@
 # ts-tutorial_google-map
+
+# Installation
+
+```bash
+npm install -g typescript ts-node
+```
+
+# Run ts
+
+```bash
+ts-node index.ts 
+```
+
+# Tutorial Overview
+
+- Understand basic types in TS
+- Function typing + annotations
+- Type definition files
+- Arrays in TS
+- Modules systems
+- Classes + Refresher on OOP
+- Projects
+
+# Run TS on browser
+
+```bash
+npm i -g parcel-bundler
+```
+
+# How to use `parcel-bundler`
+
+```bash
+parcel index.html
+```
+
 ```TSX
 
 /// <reference types="@types/google.maps" />
