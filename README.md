@@ -34,6 +34,8 @@ npm i -g parcel-bundler
 parcel index.html
 ```
 
+# Reusable Code for Google Map
+
 ```TSX
 
 /// <reference types="@types/google.maps" />
